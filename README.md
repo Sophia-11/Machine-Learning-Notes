@@ -1,5 +1,33 @@
-# Machine-Learning-Notes
+# Machine-Learning-Notes(加载图片较慢，请耐心等待)
 周志华《机器学习》手推笔记
+
+*Last updated: 2019/09/20*
+
+## 【计算机视觉联盟】回复【西瓜书手推笔记】即可获得百度云pdf下载链接
+
+
+#### Update log
+* 2019/09/20 * - 更新第二章，第三章
+
+
+## Table of Contents
+- [第二章模型评估与选择](https://github.com/Sophia-11/Machine-Learning-Notes/)
+- [第三章线性模型](https://github.com/Sophia-11/Machine-Learning-Notes/)
+- [第四章决策树](https://github.com/Sophia-11/Machine-Learning-Notes/)
+- [第五章神经网络](https://github.com/Sophia-11/Machine-Learning-Notes/)
+- [第六章支持向量机](https://github.com/Sophia-11/Machine-Learning-Notes/)
+- [第七章贝叶斯分类器](https://github.com/Sophia-11/Machine-Learning-Notes/)
+- [第八章集成信息](https://github.com/Sophia-11/Machine-Learning-Notes/)
+- [第九章聚类](https://github.com/Sophia-11/Machine-Learning-Notes/)
+- [第十章降维与度量学习](https://github.com/Sophia-11/Machine-Learning-Notes/)
+- [第十一章特征选择与稀疏学习](https://github.com/Sophia-11/Machine-Learning-Notes/)
+- [第十二章计算学习理论](https://github.com/Sophia-11/Machine-Learning-Notes/)
+- [第十三章半监督学习](https://github.com/Sophia-11/Machine-Learning-Notes/)
+- [第十四章概率图模型](https://github.com/Sophia-11/Machine-Learning-Notes/)
+- [第十五章规则学习](https://github.com/Sophia-11/Machine-Learning-Notes/)
+- [第十六章强化学习](https://github.com/Sophia-11/Machine-Learning-Notes/)
+
+
 
 
 ## 第二章  模型评估与选择

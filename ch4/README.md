@@ -1,1 +1,13 @@
 # 第四章手推笔记
+
+![image](./%E6%89%AB%E6%8F%8F0024_%E5%89%AF%E6%9C%AC.jpg)
+![image](./%E6%89%AB%E6%8F%8F0025_%E5%89%AF%E6%9C%AC.jpg)
+![image](./%E6%89%AB%E6%8F%8F0026_%E5%89%AF%E6%9C%AC.jpg)
+![image](./%E6%89%AB%E6%8F%8F0027_%E5%89%AF%E6%9C%AC.jpg)
+![image](./%E6%89%AB%E6%8F%8F0028_%E5%89%AF%E6%9C%AC.jpg)
+![image](./%E6%89%AB%E6%8F%8F0029_%E5%89%AF%E6%9C%AC.jpg)
+![image](./%E6%89%AB%E6%8F%8F0030_%E5%89%AF%E6%9C%AC.jpg)
+![image](./%E6%89%AB%E6%8F%8F0031_%E5%89%AF%E6%9C%AC.jpg)
+![image](./%E6%89%AB%E6%8F%8F0032_%E5%89%AF%E6%9C%AC.jpg)
+![image](./%E6%89%AB%E6%8F%8F0033_%E5%89%AF%E6%9C%AC.jpg)
+![image](./%E6%89%AB%E6%8F%8F0034_%E5%89%AF%E6%9C%AC.jpg)

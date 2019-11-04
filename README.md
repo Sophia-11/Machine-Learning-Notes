@@ -1,18 +1,20 @@
 # Machine-Learning-Notes(加载图片较慢，请耐心等待)
 周志华《机器学习》手推笔记~持续更新中
 
-## 手推笔记已经  62页 A4纸，可直接打印 ！！
+## 手推笔记已经  75页 A4纸，可直接打印 ！！
 
-*Last updated: 2019/10/08*
+*Last updated: 2019/11/04*
 
 ## 【计算机视觉联盟】回复【西瓜书手推笔记】即可获得百度云pdf下载链接
 
+[image](./cvQD.jpg)
 
 #### Update log
 * 2019/09/20 * - 更新第一章，第二章，第三章
 * 2019/09/24 * - 更新第四章
 * 2019/09/27 * - 更新第五章
 * 2019/10/08 * - 更新第六章
+* 2019/11/04 * - 更新第七章
 
 ## Table of Contents
 - [第一章绪论](https://github.com/Sophia-11/Machine-Learning-Notes/)
@@ -112,4 +114,17 @@
 ![image](./ch6/%E6%89%AB%E6%8F%8F0014_%E5%89%AF%E6%9C%AC.jpg)
 ![image](./ch6/%E6%89%AB%E6%8F%8F0015_%E5%89%AF%E6%9C%AC.jpg)
 
-
+## 第七章    贝叶斯分类器
+![image](./ch7/062.jpg)
+![image](./ch7/063.jpg)
+![image](./ch7/064.jpg)
+![image](./ch7/065.jpg)
+![image](./ch7/066.jpg)
+![image](./ch7/067.jpg)
+![image](./ch7/068.jpg)
+![image](./ch7/069.jpg)
+![image](./ch7/070.jpg)
+![image](./ch7/071.jpg)
+![image](./ch7/072.jpg)
+![image](./ch7/073.jpg)
+![image](./ch7/074.jpg)

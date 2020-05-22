@@ -5,22 +5,23 @@
 
 ## 手推笔记已经  129页 A4纸，可直接打印 ！！
 
-*Last updated: 2020/05/16*   **更新第三版**
+*Last updated: 2020/05/22*   **更新第三版**
 
 ## 【计算机视觉联盟】回复【西瓜书手推笔记】即可获得百度云pdf下载链接
 
-![image](./cvQD.jpg)
-
 #### Update log
-* 2019/09/20 * - 更新第一章，第二章，第三章
-* 2019/09/24 * - 更新第四章
-* 2019/09/27 * - 更新第五章
-* 2019/10/08 * - 更新第六章
-* 2019/11/04 * - 更新第七章
-* 2019/11/30 * - 更新第八章
-* 2019/12/12 * - 更新第九章
-* 2019/12/28 * - 更新第十章
-* 2019/01/14 * - 更新第十一章
+* 2019/09/13 * - 更新第一章
+* 2019/09/20 * - 更新第二章
+* 2019/10/03 * - 更新第三章
+* 2019/11/05 * - 更新第四章
+* 2019/11/30 * - 更新第五章  46页
+* 2019/12/17 * - 更新第六章  62页
+* 2019/01/02 * - 更新第七章  75页
+* 2019/01/28 * - 更新第八章  96页 
+* 2019/02/14 * - 更新第九章  105页
+* 2019/03/27 * - 更新第十章  116页
+* 2019/04/14 * - 更新为第三版
+* 2019/05/16 * - 更新第十一章   129页
 
 ## Table of Contents
 - [第一章绪论](https://github.com/Sophia-11/Machine-Learning-Notes/)
@@ -41,12 +42,8 @@
 - [第十六章强化学习](https://github.com/Sophia-11/Machine-Learning-Notes/)
 
 
-## 博士私人微信
+## 手推笔记作者简介--王博Kings
 微信号（Kingsplus）备注：单位/学校+研究方向 ，分享最新的AI思维导图和笔记
-
-![image](./Kingsplus.jpg)
-
-笔记作者：王博简介
 
 985AI博士，CSDN博客专家
 
@@ -54,9 +51,29 @@
 
 已完结待更笔记：《深度学习-花书手推笔记》、《无人驾驶手推笔记》、《SLAM 十四讲》
 
+| 下载地址 | 博士私人微信 |
+|:-----------:|:-----------:|
+|![](./cvQD.jpg)|![](./Kingsplus.jpg)| 
+|【计算机视觉联盟】回复【西瓜书手推笔记】即可获得百度云pdf下载链接|985AI博士，CSDN博客专家| 
+
+
 ## 第一章 绪论
 
 ![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch1/%E5%91%A8%E5%BF%97%E5%8D%8E%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E3%80%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E8%81%94%E7%9B%9F%E3%80%91.jpg)
+
+
+### 数学符号
+| 1 | 2 | 3 |4 |
+|:-----------:|:--------:|:---------:|:---------:|
+|![](./ch/0000.jpg)| ![](./ch/0001.jpg)| ![](./ch/0002.jpg)|  ![](./ch/0003.jpg)| 
+
+## 第二章  模型评估与选择
+| 1 | 2 | 3 |4 |
+|:-----------:|:--------:|:---------:|:---------:|
+|![](./ch2/%E6%89%AB%E6%8F%8F_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch2/%E6%89%AB%E6%8F%8F0001_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch2/%E6%89%AB%E6%8F%8F0002_%E5%89%AF%E6%9C%AC.jpg)|  ![](./ch2/%E6%89%AB%E6%8F%8F0003_%E5%89%AF%E6%9C%AC.jpg)| 
+|![](./ch2/%E6%89%AB%E6%8F%8F0004_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch2/%E6%89%AB%E6%8F%8F0005_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch2/%E6%89%AB%E6%8F%8F0006_%E5%89%AF%E6%9C%AC.jpg)|  ![](./ch2/%E6%89%AB%E6%8F%8F0007_%E5%89%AF%E6%9C%AC.jpg)| 
+|![](./ch2/%E6%89%AB%E6%8F%8F0008_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch2/%E6%89%AB%E6%8F%8F0009_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch2/%E6%89%AB%E6%8F%8F0010_%E5%89%AF%E6%9C%AC.jpg)|  ![](./ch2/%E6%89%AB%E6%8F%8F0011_%E5%89%AF%E6%9C%AC.jpg)| 
+|![](./ch2/%E6%89%AB%E6%8F%8F0012_%E5%89%AF%E6%9C%AC.jpg)|||| 
 
 
 ## 第二章  模型评估与选择
@@ -77,6 +94,13 @@
 
 
 ## 第三章  线性模型
+| 1 | 2 | 3 |4 |
+|:-----------:|:--------:|:---------:|:---------:|
+|![](./ch3/%E6%89%AB%E6%8F%8F0014_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch3/%E6%89%AB%E6%8F%8F0015_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch3/%E6%89%AB%E6%8F%8F0016_%E5%89%AF%E6%9C%AC.jpg)|  ![](./ch3/%E6%89%AB%E6%8F%8F0017_%E5%89%AF%E6%9C%AC.jpg)| 
+|![](./ch3/%E6%89%AB%E6%8F%8F0018_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch3/%E6%89%AB%E6%8F%8F0019_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch3/%E6%89%AB%E6%8F%8F0020_%E5%89%AF%E6%9C%AC.jpg)|  ![](./ch3/%E6%89%AB%E6%8F%8F0021_%E5%89%AF%E6%9C%AC.jpg)| 
+|![](./ch3/%E6%89%AB%E6%8F%8F0022_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch3/%E6%89%AB%E6%8F%8F0023_%E5%89%AF%E6%9C%AC.jpg)|| | 
+
+## 第三章  线性模型
 ![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch3/%E6%89%AB%E6%8F%8F0014_%E5%89%AF%E6%9C%AC.jpg)
 ![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch3/%E6%89%AB%E6%8F%8F0015_%E5%89%AF%E6%9C%AC.jpg)
 ![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch3/%E6%89%AB%E6%8F%8F0016_%E5%89%AF%E6%9C%AC.jpg)
@@ -87,6 +111,9 @@
 ![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch3/%E6%89%AB%E6%8F%8F0021_%E5%89%AF%E6%9C%AC.jpg)
 ![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch3/%E6%89%AB%E6%8F%8F0022_%E5%89%AF%E6%9C%AC.jpg)
 ![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch3/%E6%89%AB%E6%8F%8F0023_%E5%89%AF%E6%9C%AC.jpg)
+
+
+
 
 ## 第四章   决策树
 ![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch4/%E6%89%AB%E6%8F%8F0024_%E5%89%AF%E6%9C%AC.jpg)

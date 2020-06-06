@@ -86,17 +86,26 @@
 |![](./ch3/%E6%89%AB%E6%8F%8F0022_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch3/%E6%89%AB%E6%8F%8F0023_%E5%89%AF%E6%9C%AC.jpg)|| | 
 
 
+## 第四章   决策树
+| 1 | 2 | 3 |4 |
+|:-----------:|:--------:|:---------:|:---------:|
+|![](./ch4/%E6%89%AB%E6%8F%8F0024_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch4/%E6%89%AB%E6%8F%8F0025_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch4/%E6%89%AB%E6%8F%8F0026_%E5%89%AF%E6%9C%AC.jpg)|  ![](./ch4/%E6%89%AB%E6%8F%8F0027_%E5%89%AF%E6%9C%AC.jpg)| 
+|![](./ch4/%E6%89%AB%E6%8F%8F0028_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch4/%E6%89%AB%E6%8F%8F0029_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch4/%E6%89%AB%E6%8F%8F0030_%E5%89%AF%E6%9C%AC.jpg)|  ![](./ch4/%E6%89%AB%E6%8F%8F0031_%E5%89%AF%E6%9C%AC.jpg)| 
+|![](./ch4/%E6%89%AB%E6%8F%8F0032_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch4/%E6%89%AB%E6%8F%8F0033_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch4/%E6%89%AB%E6%8F%8F0034_%E5%89%AF%E6%9C%AC.jpg)|  ![](./ch4/%E6%89%AB%E6%8F%8F0027_%E5%89%AF%E6%9C%AC.jpg)| 
+
 
 ## 第四章   决策树
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch4/%E6%89%AB%E6%8F%8F0024_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch4/%E6%89%AB%E6%8F%8F0025_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch4/%E6%89%AB%E6%8F%8F0026_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch4/%E6%89%AB%E6%8F%8F0027_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch4/%E6%89%AB%E6%8F%8F0028_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch4/%E6%89%AB%E6%8F%8F0029_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch4/%E6%89%AB%E6%8F%8F0030_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch4/%E6%89%AB%E6%8F%8F0031_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch4/%E6%89%AB%E6%8F%8F0032_%E5%89%AF%E6%9C%AC.jpg)
+![image](./ch4/%E6%89%AB%E6%8F%8F0024_%E5%89%AF%E6%9C%AC.jpg)
+![image](./ch4/%E6%89%AB%E6%8F%8F0025_%E5%89%AF%E6%9C%AC.jpg)
+![image](./ch4/%E6%89%AB%E6%8F%8F0026_%E5%89%AF%E6%9C%AC.jpg)
+![image](./ch4/%E6%89%AB%E6%8F%8F0027_%E5%89%AF%E6%9C%AC.jpg)
+
+![image](./ch4/%E6%89%AB%E6%8F%8F0028_%E5%89%AF%E6%9C%AC.jpg)
+![image](./ch4/%E6%89%AB%E6%8F%8F0029_%E5%89%AF%E6%9C%AC.jpg)
+![image](./ch4/%E6%89%AB%E6%8F%8F0030_%E5%89%AF%E6%9C%AC.jpg)
+![image](./ch4/%E6%89%AB%E6%8F%8F0031_%E5%89%AF%E6%9C%AC.jpg)
+
+![image](./ch4/%E6%89%AB%E6%8F%8F0032_%E5%89%AF%E6%9C%AC.jpg)
 ![image](./ch4/%E6%89%AB%E6%8F%8F0033_%E5%89%AF%E6%9C%AC.jpg)
 ![image](./ch4/%E6%89%AB%E6%8F%8F0034_%E5%89%AF%E6%9C%AC.jpg)
 

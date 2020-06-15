@@ -1,20 +1,9 @@
 # 本文件夹更新第二章笔记
 
-
 ## 第二章  模型评估与选择
-
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch2/%E6%89%AB%E6%8F%8F_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch2/%E6%89%AB%E6%8F%8F0001_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch2/%E6%89%AB%E6%8F%8F0002_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch2/%E6%89%AB%E6%8F%8F0003_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch2/%E6%89%AB%E6%8F%8F0004_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch2/%E6%89%AB%E6%8F%8F0005_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch2/%E6%89%AB%E6%8F%8F0006_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch2/%E6%89%AB%E6%8F%8F0007_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch2/%E6%89%AB%E6%8F%8F0008_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch2/%E6%89%AB%E6%8F%8F0009_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch2/%E6%89%AB%E6%8F%8F0010_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch2/%E6%89%AB%E6%8F%8F0011_%E5%89%AF%E6%9C%AC.jpg)
-![image](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/ch2/%E6%89%AB%E6%8F%8F0012_%E5%89%AF%E6%9C%AC.jpg)
-
-
+| 1 | 2 | 3 |4 |
+|:-----------:|:--------:|:---------:|:---------:|
+|![](./%E6%89%AB%E6%8F%8F_%E5%89%AF%E6%9C%AC.jpg)| ![](./%E6%89%AB%E6%8F%8F0001_%E5%89%AF%E6%9C%AC.jpg)| ![](./%E6%89%AB%E6%8F%8F0002_%E5%89%AF%E6%9C%AC.jpg)|  ![](./%E6%89%AB%E6%8F%8F0003_%E5%89%AF%E6%9C%AC.jpg)| 
+|![](./%E6%89%AB%E6%8F%8F0004_%E5%89%AF%E6%9C%AC.jpg)| ![](./%E6%89%AB%E6%8F%8F0005_%E5%89%AF%E6%9C%AC.jpg)| ![](./%E6%89%AB%E6%8F%8F0006_%E5%89%AF%E6%9C%AC.jpg)|  ![](./%E6%89%AB%E6%8F%8F0007_%E5%89%AF%E6%9C%AC.jpg)| 
+|![](./%E6%89%AB%E6%8F%8F0008_%E5%89%AF%E6%9C%AC.jpg)| ![](./%E6%89%AB%E6%8F%8F0009_%E5%89%AF%E6%9C%AC.jpg)| ![](./%E6%89%AB%E6%8F%8F0010_%E5%89%AF%E6%9C%AC.jpg)|  ![](./%E6%89%AB%E6%8F%8F0011_%E5%89%AF%E6%9C%AC.jpg)| 
+|![](./%E6%89%AB%E6%8F%8F0012_%E5%89%AF%E6%9C%AC.jpg)|--by 王博Kings||| 

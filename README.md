@@ -93,19 +93,13 @@
 |![](./ch4/%E6%89%AB%E6%8F%8F0028_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch4/%E6%89%AB%E6%8F%8F0029_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch4/%E6%89%AB%E6%8F%8F0030_%E5%89%AF%E6%9C%AC.jpg)|  ![](./ch4/%E6%89%AB%E6%8F%8F0031_%E5%89%AF%E6%9C%AC.jpg)| 
 |![](./ch4/%E6%89%AB%E6%8F%8F0032_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch4/%E6%89%AB%E6%8F%8F0033_%E5%89%AF%E6%9C%AC.jpg)| ![](./ch4/%E6%89%AB%E6%8F%8F0034_%E5%89%AF%E6%9C%AC.jpg)|  --by 王博Kings| 
 
-
 ## 第五章   神经网络
-![image](./ch5/%E6%89%AB%E6%8F%8F0035_%E5%89%AF%E6%9C%AC.jpg)
-![image](./ch5/%E6%89%AB%E6%8F%8F0036_%E5%89%AF%E6%9C%AC.jpg)
-![image](./ch5/%E6%89%AB%E6%8F%8F0037_%E5%89%AF%E6%9C%AC.jpg)
-![image](./ch5/%E6%89%AB%E6%8F%8F0038_%E5%89%AF%E6%9C%AC.jpg)
-![image](./ch5/%E6%89%AB%E6%8F%8F0039_%E5%89%AF%E6%9C%AC.jpg)
-![image](./ch5/%E6%89%AB%E6%8F%8F0040_%E5%89%AF%E6%9C%AC.jpg)
-![image](./ch5/%E6%89%AB%E6%8F%8F0041_%E5%89%AF%E6%9C%AC.jpg)
-![image](./ch5/%E6%89%AB%E6%8F%8F0042_%E5%89%AF%E6%9C%AC.jpg)
-![image](./ch5/%E6%89%AB%E6%8F%8F0043_%E5%89%AF%E6%9C%AC.jpg)
-![image](./ch5/%E6%89%AB%E6%8F%8F0044_%E5%89%AF%E6%9C%AC.jpg)
-![image](./ch5/%E6%89%AB%E6%8F%8F0045_%E5%89%AF%E6%9C%AC.jpg)
+| 1 | 2 | 3 |4 |
+|:-----------:|:--------:|:---------:|:---------:|
+|![image](./ch5/%E6%89%AB%E6%8F%8F0035_%E5%89%AF%E6%9C%AC.jpg)|![image](./ch5/%E6%89%AB%E6%8F%8F0036_%E5%89%AF%E6%9C%AC.jpg)|![image](./ch5/%E6%89%AB%E6%8F%8F0037_%E5%89%AF%E6%9C%AC.jpg)|![image](./ch5/%E6%89%AB%E6%8F%8F0038_%E5%89%AF%E6%9C%AC.jpg)|
+![image](./ch5/%E6%89%AB%E6%8F%8F0039_%E5%89%AF%E6%9C%AC.jpg)|![image](./ch5/%E6%89%AB%E6%8F%8F0040_%E5%89%AF%E6%9C%AC.jpg)|![image](./ch5/%E6%89%AB%E6%8F%8F0041_%E5%89%AF%E6%9C%AC.jpg)|![image](./ch5/%E6%89%AB%E6%8F%8F0042_%E5%89%AF%E6%9C%AC.jpg)|
+![image](./ch5/%E6%89%AB%E6%8F%8F0043_%E5%89%AF%E6%9C%AC.jpg)|![image](./ch5/%E6%89%AB%E6%8F%8F0044_%E5%89%AF%E6%9C%AC.jpg)|![image](./ch5/%E6%89%AB%E6%8F%8F0045_%E5%89%AF%E6%9C%AC.jpg)|  --by 王博Kings| 
+
 
 
 ## 第六章   支持向量机

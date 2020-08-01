@@ -5,7 +5,7 @@
 
 ## 手推笔记已经  150页 A4纸，可直接打印 ！！
 
-*Last updated: 2020/06/03*   **更新第三版**
+*Last updated: 2020/08/01*   **更新第三版**
 
 ## 【计算机视觉联盟】回复【西瓜书手推笔记】即可获得百度云pdf下载链接
 
@@ -111,16 +111,16 @@
 ![image](./ch6/%E6%89%AB%E6%8F%8F0012_%E5%89%AF%E6%9C%AC.jpg)|![image](./ch6/%E6%89%AB%E6%8F%8F0013_%E5%89%AF%E6%9C%AC.jpg)|![image](./ch6/%E6%89%AB%E6%8F%8F0014_%E5%89%AF%E6%9C%AC.jpg)|![image](./ch6/%E6%89%AB%E6%8F%8F0015_%E5%89%AF%E6%9C%AC.jpg)|
 
 ## 第七章    贝叶斯分类器
-![image](./ch7/062.jpg)
-![image](./ch7/063.jpg)
-![image](./ch7/064.jpg)
-![image](./ch7/065.jpg)
-![image](./ch7/066.jpg)
-![image](./ch7/067.jpg)
-![image](./ch7/068.jpg)
-![image](./ch7/069.jpg)
-![image](./ch7/070.jpg)
-![image](./ch7/071.jpg)
-![image](./ch7/072.jpg)
-![image](./ch7/073.jpg)
-![image](./ch7/074.jpg)
+| 1 | 2 | 3 |4 |
+|:-----------:|:--------:|:---------:|:---------:|
+|![image](./ch7/062.jpg)|![image](./ch7/063.jpg)|![image](./ch7/064.jpg)|![image](./ch7/065.jpg)|
+|![image](./ch7/066.jpg)|![image](./ch7/067.jpg)|![image](./ch7/068.jpg)|![image](./ch7/069.jpg)
+|![image](./ch7/070.jpg)|![image](./ch7/071.jpg)|![image](./ch7/072.jpg)|![image](./ch7/073.jpg)
+|![image](./ch7/074.jpg)|||--by 王博Kings| 
+
+## 第八章   集成信息
+| 1 | 2 | 3 |4 |
+|:-----------:|:--------:|:---------:|:---------:|
+|![image](./ch8/075.jpg)|![image](./ch8/076.jpg)|![image](./ch8/077.jpg)|![image](./ch8/078.jpg)|
+|![image](./ch8/079.jpg)|![image](./ch8/080.jpg)|![image](./ch8/081.jpg)|![image](./ch8/082.jpg)|
+|![image](./ch8/083.jpg)|![image](./ch8/084.jpg)|![image](./ch8/085.jpg)|![image](./ch8/086.jpg)|

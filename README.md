@@ -124,3 +124,9 @@
 |![image](./ch8/075.jpg)|![image](./ch8/076.jpg)|![image](./ch8/077.jpg)|![image](./ch8/078.jpg)|
 |![image](./ch8/079.jpg)|![image](./ch8/080.jpg)|![image](./ch8/081.jpg)|![image](./ch8/082.jpg)|
 |![image](./ch8/083.jpg)|![image](./ch8/084.jpg)|![image](./ch8/085.jpg)|![image](./ch8/086.jpg)|
+
+## 第九章   聚类
+| 1 | 2 | 3 |4 |
+|:-----------:|:--------:|:---------:|:---------:|
+|![image](./ch9/087.jpg)|![image](./ch9/088.jpg)|![image](./ch9/089.jpg)|![image](./ch9/090.jpg)|
+|![image](./ch9/091.jpg)|![image](./ch9/092.jpg)|![image](./ch9/093.jpg)|![image](./ch9/094.jpg)|

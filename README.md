@@ -131,3 +131,11 @@
 |:-----------:|:--------:|:---------:|:---------:|
 |![image](./ch9/087.jpg)|![image](./ch9/088.jpg)|![image](./ch9/089.jpg)|![image](./ch9/090.jpg)|
 |![image](./ch9/091.jpg)|![image](./ch9/092.jpg)|![image](./ch9/093.jpg)|![image](./ch9/094.jpg)|
+
+
+## 第十章  降维与度量学习
+| 1 | 2 | 3 |4 |
+|:-----------:|:--------:|:---------:|:---------:|
+|![image](./ch10/095.jpg)|![image](./ch10/096.jpg)|![image](./ch10/097.jpg)|![image](./ch10/098.jpg)|
+|![image](./ch10/099.jpg)|![image](./ch10/100.jpg)|![image](./ch10/101.jpg)|![image](./ch10/102.jpg)|
+|![image](./ch10/103.jpg)|![image](./ch10/104.jpg)||--by 王博Kings|

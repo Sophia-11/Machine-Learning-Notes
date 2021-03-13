@@ -1,7 +1,9 @@
 ### Machine-Learning-Notes(加载图片较慢，请耐心等待,只显示一部分)
-周志华《机器学习》手推笔记~持续更新中
+* 如果刷新不出来，可以点击 [神经网络](https://mp.weixin.qq.com/s/usIVYjffOL6oBUGUDalYLg)  查看笔记大概是什么样子的
 
-### by 【计算机视觉联盟】 王博（Kings）、Sophia
+* 周志华《机器学习》手推笔记（踏踏实实把公式学习推导一遍）
+
+* by 【计算机视觉联盟】 王博Kings、Sophia
 
 # 手推笔记十六章 214页 A4纸，可直接打印 ！！
 
@@ -11,7 +13,7 @@
 
 * [深度学习手推笔记](https://github.com/Sophia-11/DeepLearningNotes)
 
-## 【计算机视觉联盟】回复【西瓜书手推笔记】即可获得百度云pdf下载链接
+## 公众号【计算机视觉联盟】回复【西瓜书手推笔记】即可获得百度云pdf下载链接
 
 ## Table of Contents
 - [第一章绪论](https://github.com/Sophia-11/Machine-Learning-Notes/)
@@ -49,8 +51,7 @@
 
 ## 第一章 绪论
 
- ![image](./ch1/ch01.png)|
-
+ ![image](./ch1/ch01.png)
 
 ## 第二章  模型评估与选择
 | 1 | 2 | 3 |4 |

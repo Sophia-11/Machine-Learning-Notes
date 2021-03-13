@@ -9,11 +9,9 @@
 
 *Last updated: 2021/03/13*   **更新完结十六章**
 
-后续请大家继续关注另一个项目： **深度学习手推笔记**
-
-* [深度学习手推笔记](https://github.com/Sophia-11/DeepLearningNotes)
-
 ## 公众号【计算机视觉联盟】回复【西瓜书手推笔记】即可获得百度云pdf下载链接
+
+## 后续请大家继续关注另一个重磅笔记： [**深度学习手推笔记**](https://github.com/Sophia-11/DeepLearningNotes)
 
 ## Table of Contents
 - [第一章绪论](https://github.com/Sophia-11/Machine-Learning-Notes/)
